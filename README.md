@@ -1,5 +1,1 @@
-![](https://raw.githubusercontent.com/Valraevn/githubstats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Valraevn/githubstats/master/generated/overview.svg#gh-light-mode-only)
-
-![](https://raw.githubusercontent.com/username/githubstats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/githubstats/master/generated/languages.svg#gh-light-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valraevn)](https://github.com/valraevn/github-readme-stats)
