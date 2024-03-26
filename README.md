@@ -1,2 +1,2 @@
-[![Thomas's GitHub top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Valraevn&layout=donut&theme=dark#gh-dark-mode-only)](https://github.com/Valraevn/github-readme-stats#gh-dark-mode-only)
+[![Thomas's GitHub top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Valraevn&layout=donut&theme=dark_dimmed#gh-dark-mode-only)](https://github.com/Valraevn/github-readme-stats#gh-dark-mode-only)
 [![Thomas's GitHub top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Valraevn&layout=donut&theme=default#gh-light-mode-only)](https://github.com/Valraevn/github-readme-stats#gh-light-mode-only)
