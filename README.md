@@ -1,6 +1,2 @@
-<a href="https://github.com/Valraevn#gh-dark-mode-only">
-  <img src="https://raw.githubusercontent.com/Valraevn/githubstats/blob/master/languages.svg#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/Valraevn#gh-light-mode-only">
-  <img src="https://raw.githubusercontent.com/Valraevn/Valraevn/master/generated/languages.svg#gh-light-mode-only" />
-</a>
+![](https://raw.githubusercontent.com/Valraevn/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Valraevn/github-stats/master/generated/overview.svg#gh-light-mode-only)
