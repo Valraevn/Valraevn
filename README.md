@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<!--
-**Valraevn/Valraevn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![](https://raw.githubusercontent.com/Valraevn/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
-![](https://raw.githubusercontent.com/Valraevn/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
+<a href="https://github.com/Valraevn#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/bertiewils/bertiewils/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/Valraevn#gh-light-mode-only">
+  <img src="https://raw.githubusercontent.com/Valraevn/Valraevn/master/generated/languages.svg#gh-light-mode-only" />
+</a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
